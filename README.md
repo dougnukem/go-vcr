@@ -100,3 +100,4 @@ r.SetMatcher(func(r *http.Request, i cassette.Request) bool {
 
 `go-vcr` is Open Source and licensed under the
 [BSD License](http://opensource.org/licenses/BSD-2-Clause)
+TEST
